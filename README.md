@@ -147,7 +147,7 @@ WiFi2JJY/
 
 直接烧录预编译二进制文件
 
-1. 下载最新的预编译二进制文件（`WiFi2JJY.bin`）
+1. 在在[Release页面](https://github.com/Tomosawa/WIFI2JJY/releases)页面下载最新的预编译二进制文件（`WiFi2JJY.bin`）
 2. 使用ESP官方flash_download工具（[下载链接](https://www.espressif.com/en/support/download/other-tools)）
 3. 连接ESP32-C3开发板到电脑
 4. 打开flash_download工具，选择正确的端口和开发板型号（ESP32-C3）
