@@ -1,6 +1,8 @@
-# WIFI授时转JJY信号
+# WIFI授时转JJY信号 [[English]](README_EN.md) 
 
 一个基于ESP32-C3 Super mini开发板的JJY标准时间信号发送器。该项目通过WiFi连接NTP服务器同步时间，然后生成并发送JJY格式的标准时间信号，可用于校准支持JJY信号的钟表设备。
+
+查看相关[说明视频](https://www.bilibili.com/video/BV1VzmRBwEyn/)
 
 ## 项目概述
 
