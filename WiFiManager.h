@@ -90,7 +90,7 @@ private:
     
     // AP模式配置
     const char* m_apSSID = "MYNOVA_CLOCK";
-    const char* m_apPassword = "MYNOVA123";
+    const char* m_apPassword = "12345678";
     
     // 配置存储键名
     const char* WIFI_SSID_KEY = "wifi_ssid";
